@@ -46,3 +46,20 @@
   - “打开XXX”，XXX是预设的技能名称
 - 改进recorder
 - 添加log机制
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shanjusuiyuez 的PS:我想去fork 这个xiaoland。太阳。
